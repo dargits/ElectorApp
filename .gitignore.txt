@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+
+# Binaries
+[Dd]ebug/
+[Rr]elease/
+bin/
+obj/
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+
+# Miscellaneous
+*.log
+*.bak
+*.ncb
+*.user
+*.aps
+*.ilk
+*.suo
+*.pdb
+
+# Visual Studio projects
+*.sln
+*.csproj.user

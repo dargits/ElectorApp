@@ -23,7 +23,7 @@
       "RelativeMoniker": "D:0:0:{77117A72-ED12-4B31-99DB-5B6980262AED}|ElectorApp\\ElectorApp.csproj|solutionrelative:electorapp\\services\\authservice.cs\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77117A72-ED12-4B31-99DB-5B6980262AED}|ElectorApp\\ElectorApp.csproj|c:\\.net\\winf\\electorapp\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{77117A72-ED12-4B31-99DB-5B6980262AED}|ElectorApp\\ElectorApp.csproj|C:\\.net\\winf\\electorapp\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{77117A72-ED12-4B31-99DB-5B6980262AED}|ElectorApp\\ElectorApp.csproj|solutionrelative:electorapp\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -46,8 +46,7 @@
               "RelativeToolTip": "ElectorApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T13:44:09.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T13:44:09.423Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "ElectorApp\\Utils\\Connection.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T13:41:10.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T13:41:10.396Z"
             },
             {
               "$type": "Document",
@@ -72,8 +70,7 @@
               "RelativeToolTip": "ElectorApp\\Repository\\UserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T13:36:32.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T13:36:32.169Z"
             },
             {
               "$type": "Document",
@@ -85,8 +82,7 @@
               "RelativeToolTip": "ElectorApp\\Services\\AuthService.cs\\AuthService.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAuwAwAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T13:34:22.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T13:34:22.479Z"
             },
             {
               "$type": "Document",
@@ -98,8 +94,7 @@
               "RelativeToolTip": "ElectorApp\\Utils\\SessionManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T13:28:54.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T13:28:54.757Z"
             },
             {
               "$type": "Document",
@@ -110,8 +105,7 @@
               "ToolTip": "C:\\.net\\winf\\ElectorApp\\Forms\\Login.cs [Design]",
               "RelativeToolTip": "ElectorApp\\Forms\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T12:16:50.6Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-08-05T12:16:50.6Z"
             }
           ]
         }

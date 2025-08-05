@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\.net\\winf\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{77117A72-ED12-4B31-99DB-5B6980262AED}|ElectorApp\\ElectorApp.csproj|c:\\.net\\winf\\electorapp\\utils\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77117A72-ED12-4B31-99DB-5B6980262AED}|ElectorApp\\ElectorApp.csproj|solutionrelative:electorapp\\utils\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{77117A72-ED12-4B31-99DB-5B6980262AED}|ElectorApp\\ElectorApp.csproj|c:\\.net\\winf\\electorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77117A72-ED12-4B31-99DB-5B6980262AED}|ElectorApp\\ElectorApp.csproj|solutionrelative:electorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77117A72-ED12-4B31-99DB-5B6980262AED}|ElectorApp\\ElectorApp.csproj|c:\\.net\\winf\\electorapp\\utils\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77117A72-ED12-4B31-99DB-5B6980262AED}|ElectorApp\\ElectorApp.csproj|solutionrelative:electorapp\\utils\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77117A72-ED12-4B31-99DB-5B6980262AED}|ElectorApp\\ElectorApp.csproj|c:\\.net\\winf\\electorapp\\utils\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,30 +34,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\.net\\winf\\ElectorApp\\Program.cs",
               "RelativeDocumentMoniker": "ElectorApp\\Program.cs",
               "ToolTip": "C:\\.net\\winf\\ElectorApp\\Program.cs",
               "RelativeToolTip": "ElectorApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T13:44:09.423Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Connection.cs",
               "DocumentMoniker": "C:\\.net\\winf\\ElectorApp\\Utils\\Connection.cs",
               "RelativeDocumentMoniker": "ElectorApp\\Utils\\Connection.cs",
-              "ToolTip": "C:\\.net\\winf\\ElectorApp\\Utils\\Connection.cs*",
-              "RelativeToolTip": "ElectorApp\\Utils\\Connection.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "ToolTip": "C:\\.net\\winf\\ElectorApp\\Utils\\Connection.cs",
+              "RelativeToolTip": "ElectorApp\\Utils\\Connection.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T13:41:10.396Z",
               "EditorCaption": ""
