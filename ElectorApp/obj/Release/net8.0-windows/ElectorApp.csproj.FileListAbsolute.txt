@@ -1,0 +1,17 @@
+C:\.net\winf\ElectorApp\bin\Release\net8.0-windows\ElectorApp.exe
+C:\.net\winf\ElectorApp\bin\Release\net8.0-windows\ElectorApp.deps.json
+C:\.net\winf\ElectorApp\bin\Release\net8.0-windows\ElectorApp.runtimeconfig.json
+C:\.net\winf\ElectorApp\bin\Release\net8.0-windows\ElectorApp.dll
+C:\.net\winf\ElectorApp\bin\Release\net8.0-windows\ElectorApp.pdb
+C:\.net\winf\ElectorApp\obj\Release\net8.0-windows\ElectorApp.Forms.Login.resources
+C:\.net\winf\ElectorApp\obj\Release\net8.0-windows\ElectorApp.csproj.GenerateResource.cache
+C:\.net\winf\ElectorApp\obj\Release\net8.0-windows\ElectorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net\winf\ElectorApp\obj\Release\net8.0-windows\ElectorApp.AssemblyInfoInputs.cache
+C:\.net\winf\ElectorApp\obj\Release\net8.0-windows\ElectorApp.AssemblyInfo.cs
+C:\.net\winf\ElectorApp\obj\Release\net8.0-windows\ElectorApp.csproj.CoreCompileInputs.cache
+C:\.net\winf\ElectorApp\obj\Release\net8.0-windows\ElectorApp.sourcelink.json
+C:\.net\winf\ElectorApp\obj\Release\net8.0-windows\ElectorApp.dll
+C:\.net\winf\ElectorApp\obj\Release\net8.0-windows\refint\ElectorApp.dll
+C:\.net\winf\ElectorApp\obj\Release\net8.0-windows\ElectorApp.pdb
+C:\.net\winf\ElectorApp\obj\Release\net8.0-windows\ElectorApp.genruntimeconfig.cache
+C:\.net\winf\ElectorApp\obj\Release\net8.0-windows\ref\ElectorApp.dll
