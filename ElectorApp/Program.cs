@@ -1,3 +1,5 @@
+using System.Data.Common;
+
 namespace ElectorApp
     
 {
@@ -11,6 +13,8 @@ namespace ElectorApp
         {
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
+
+            Utils.Connection.GetConnection();
             ApplicationConfiguration.Initialize();
             Application.Run(new Forms.Login());
         }
