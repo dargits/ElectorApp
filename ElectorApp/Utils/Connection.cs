@@ -1,23 +1,26 @@
 ﻿using MySql.Data.MySqlClient;
-using System;
-using System.Windows.Forms;
+using System.Windows.Forms; // Cần thiết cho MessageBox.Show
 
 namespace ElectorApp.Utils
 {
-    internal static class Connection
+    internal class Connection
     {
-        // Db từ railway
-        private const string connectionString = "server=gondola.proxy.rlwy.net;port=43240;user id=root;password=uXPqzHtzyrROSlVUQxYqEOfChpboWkRl;database=railway;";
-
-        internal static MySqlConnection GetConnection()
+        // Phương thức này trả về một đối tượng MySqlConnection
+        public static MySqlConnection GetConnection()
         {
+            // Chuỗi kết nối đến cơ sở dữ liệu MySQL của XAMPP
+            // Thay đổi 'electorapp' nếu tên cơ sở dữ liệu của bạn khác
+            // Mặc định XAMPP sử dụng 'root' và không có mật khẩu
+            string connectionString = "Server=localhost;Port=3306;Database=electorapp;Uid=root;Pwd=;";
+
             try
             {
-                return new MySqlConnection(connectionString);
-                
+                MySqlConnection connection = new MySqlConnection(connectionString);
+                return connection;
             }
             catch (MySqlException ex)
             {
+                // Hiển thị lỗi nếu không thể tạo đối tượng kết nối
                 MessageBox.Show("Lỗi kết nối cơ sở dữ liệu: " + ex.Message, "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return null;
             }

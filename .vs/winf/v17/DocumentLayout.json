@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\.net\\winf\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{77117A72-ED12-4B31-99DB-5B6980262AED}|ElectorApp\\ElectorApp.csproj|c:\\.net\\winf\\electorapp\\utils\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77117A72-ED12-4B31-99DB-5B6980262AED}|ElectorApp\\ElectorApp.csproj|solutionrelative:electorapp\\utils\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77117A72-ED12-4B31-99DB-5B6980262AED}|ElectorApp\\ElectorApp.csproj|c:\\.net\\winf\\electorapp\\utils\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77117A72-ED12-4B31-99DB-5B6980262AED}|ElectorApp\\ElectorApp.csproj|solutionrelative:electorapp\\utils\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77117A72-ED12-4B31-99DB-5B6980262AED}|ElectorApp\\ElectorApp.csproj|c:\\.net\\winf\\electorapp\\utils\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77117A72-ED12-4B31-99DB-5B6980262AED}|ElectorApp\\ElectorApp.csproj|solutionrelative:electorapp\\utils\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{77117A72-ED12-4B31-99DB-5B6980262AED}|ElectorApp\\ElectorApp.csproj|c:\\.net\\winf\\electorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77117A72-ED12-4B31-99DB-5B6980262AED}|ElectorApp\\ElectorApp.csproj|solutionrelative:electorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{77117A72-ED12-4B31-99DB-5B6980262AED}|ElectorApp\\ElectorApp.csproj|c:\\.net\\winf\\electorapp\\utils\\createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77117A72-ED12-4B31-99DB-5B6980262AED}|ElectorApp\\ElectorApp.csproj|solutionrelative:electorapp\\utils\\createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77117A72-ED12-4B31-99DB-5B6980262AED}|ElectorApp\\ElectorApp.csproj|c:\\.net\\winf\\electorapp\\utils\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77117A72-ED12-4B31-99DB-5B6980262AED}|ElectorApp\\ElectorApp.csproj|solutionrelative:electorapp\\utils\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77117A72-ED12-4B31-99DB-5B6980262AED}|ElectorApp\\ElectorApp.csproj|c:\\.net\\winf\\electorapp\\utils\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77117A72-ED12-4B31-99DB-5B6980262AED}|ElectorApp\\ElectorApp.csproj|solutionrelative:electorapp\\utils\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77117A72-ED12-4B31-99DB-5B6980262AED}|ElectorApp\\ElectorApp.csproj|c:\\.net\\winf\\electorapp\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{77117A72-ED12-4B31-99DB-5B6980262AED}|ElectorApp\\ElectorApp.csproj|c:\\.net\\winf\\electorapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77117A72-ED12-4B31-99DB-5B6980262AED}|ElectorApp\\ElectorApp.csproj|solutionrelative:electorapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77117A72-ED12-4B31-99DB-5B6980262AED}|ElectorApp\\ElectorApp.csproj|c:\\.net\\winf\\electorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77117A72-ED12-4B31-99DB-5B6980262AED}|ElectorApp\\ElectorApp.csproj|solutionrelative:electorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77117A72-ED12-4B31-99DB-5B6980262AED}|ElectorApp\\ElectorApp.csproj|c:\\.net\\winf\\electorapp\\services\\authservice.cs\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
@@ -56,14 +56,14 @@
               "RelativeDocumentMoniker": "ElectorApp\\Utils\\PasswordHasher.cs",
               "ToolTip": "C:\\.net\\winf\\ElectorApp\\Utils\\PasswordHasher.cs",
               "RelativeToolTip": "ElectorApp\\Utils\\PasswordHasher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T16:50:54.648Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\.net\\winf\\ElectorApp\\Models\\User.cs",
               "RelativeDocumentMoniker": "ElectorApp\\Models\\User.cs",
@@ -75,52 +75,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CreateDb.cs",
               "DocumentMoniker": "C:\\.net\\winf\\ElectorApp\\Utils\\CreateDb.cs",
               "RelativeDocumentMoniker": "ElectorApp\\Utils\\CreateDb.cs",
               "ToolTip": "C:\\.net\\winf\\ElectorApp\\Utils\\CreateDb.cs",
               "RelativeToolTip": "ElectorApp\\Utils\\CreateDb.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwCgAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwEIAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T16:29:45.124Z"
+              "WhenOpened": "2025-08-05T16:29:45.124Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\.net\\winf\\ElectorApp\\Program.cs",
               "RelativeDocumentMoniker": "ElectorApp\\Program.cs",
               "ToolTip": "C:\\.net\\winf\\ElectorApp\\Program.cs",
               "RelativeToolTip": "ElectorApp\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T13:44:09.423Z"
+              "WhenOpened": "2025-08-05T13:44:09.423Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Connection.cs",
               "DocumentMoniker": "C:\\.net\\winf\\ElectorApp\\Utils\\Connection.cs",
               "RelativeDocumentMoniker": "ElectorApp\\Utils\\Connection.cs",
               "ToolTip": "C:\\.net\\winf\\ElectorApp\\Utils\\Connection.cs",
               "RelativeToolTip": "ElectorApp\\Utils\\Connection.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T13:41:10.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\.net\\winf\\ElectorApp\\Repository\\UserRepository.cs",
               "RelativeDocumentMoniker": "ElectorApp\\Repository\\UserRepository.cs",
               "ToolTip": "C:\\.net\\winf\\ElectorApp\\Repository\\UserRepository.cs",
               "RelativeToolTip": "ElectorApp\\Repository\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T13:36:32.169Z"
+              "WhenOpened": "2025-08-05T13:36:32.169Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -136,15 +139,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "SessionManager.cs",
               "DocumentMoniker": "C:\\.net\\winf\\ElectorApp\\Utils\\SessionManager.cs",
               "RelativeDocumentMoniker": "ElectorApp\\Utils\\SessionManager.cs",
               "ToolTip": "C:\\.net\\winf\\ElectorApp\\Utils\\SessionManager.cs",
               "RelativeToolTip": "ElectorApp\\Utils\\SessionManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T13:28:54.757Z"
+              "WhenOpened": "2025-08-05T13:28:54.757Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

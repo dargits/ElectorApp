@@ -33,3 +33,4 @@ C:\.net\winf\ElectorApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64
 C:\.net\winf\ElectorApp\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\.net\winf\ElectorApp\obj\Debug\net8.0-windows\ElectorApp.csproj.AssemblyReference.cache
 C:\.net\winf\ElectorApp\obj\Debug\net8.0-windows\ElectorApp.csproj.Up2Date
+C:\.net\winf\ElectorApp\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
