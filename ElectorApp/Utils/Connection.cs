@@ -4,12 +4,12 @@ using System.Windows.Forms;
 
 namespace ElectorApp.Utils
 {
-    public class Connection
+    internal static class Connection
     {
         // Db từ railway
         private const string connectionString = "server=gondola.proxy.rlwy.net;port=43240;user id=root;password=uXPqzHtzyrROSlVUQxYqEOfChpboWkRl;database=railway;";
 
-        public static MySqlConnection GetConnection()
+        internal static MySqlConnection GetConnection()
         {
             try
             {

@@ -14,7 +14,7 @@ namespace ElectorApp
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
 
-            Utils.Connection.GetConnection();
+            Utils.CreateDb.create();
             ApplicationConfiguration.Initialize();
             Application.Run(new Forms.Login());
         }
